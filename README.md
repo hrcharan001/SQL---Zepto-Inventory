@@ -4,7 +4,7 @@ This project focuses on inventory and pricing analysis using SQL on a Zepto-styl
 
 ---
 ## Project
-- <a href="">Click To View</a>
+- <a href="https://github.com/hrcharan001/SQL---Bike-Rental-Shop/blob/main/Bike%20rental%20-%20self%20project.sql">Click To View</a>
 
 
 ## Project Objectives
